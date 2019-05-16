@@ -9,6 +9,8 @@ print(msa)
 
 length = len(msa[0])
 
-for position in range(length):
-    print(position)
+positions = list(zip(*msa))
 
+for position in positions:
+    str = ''.join(position)
+    print(str.count('A'))
