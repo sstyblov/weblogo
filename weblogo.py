@@ -13,4 +13,6 @@ positions = list(zip(*msa))
 
 for position in positions:
     str = ''.join(position)
-    print(str.count('A'))
+    print('A', str.count('A'))
+    
+
