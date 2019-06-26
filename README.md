@@ -41,7 +41,7 @@ its values are plotted in the `dmslogo`.
 ### Color Scheme
 This WebLogo uses `dmslogo` default coloring scheme. 
 
-###Acknowledgements
+## Acknowledgements
 WebLogo was created by: 
 
 Stýblová, Sabrina<br/>
