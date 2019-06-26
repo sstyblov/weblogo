@@ -69,7 +69,7 @@ def entropy_DNA(positions):
 
         totH = HA + HT + HC + HG #total Entropy at each position for each nucleotid
         e = (1 / math.log(2)) * 3 / (2 * len(msa))  # approximation for the small-sample correction
-                                                    #works only if number of sequences >30
+                                                    #works only if number of sequences >=30
         e = 0
         R = math.log2(4) - (totH + e) #Total block height at each position #(R = math.log2(4) - (totH + e))
         BA = pA * R # Block height of A
