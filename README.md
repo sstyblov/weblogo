@@ -34,7 +34,9 @@ its values are plotted in the `dmslogo`.
 
 * A .png file as output
 
-![Example WebLogo](Example.png) 
+![Beispiel](https://user-images.githubusercontent.com/50204636/60206203-43e06e00-9853-11e9-91ee-32905911c3cf.png)
+![Beispiel2](https://user-images.githubusercontent.com/50204636/60206194-4216aa80-9853-11e9-97fd-dcf39a845d7a.png)
+
 
 ### Color Scheme
 This WebLogo uses `dmslogo` default coloring scheme. 
