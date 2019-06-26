@@ -77,7 +77,7 @@ def entropy_DNA(positions):
         BC = pC * R
         BG = pG * R
 
-        print('R',R)
+        #print('R',R)
         BA_all.append(BA) #rolling over each sequence at this position
         BT_all.append(BT)
         BC_all.append(BC)
