@@ -39,11 +39,11 @@ its values are plotted in the `dmslogo`.
 ### Color Scheme
 This WebLogo uses `dmslogo` default coloring scheme. 
 
-##Acknowledgements
+###Acknowledgements
 WebLogo was created by: 
 
-Styblova, Sabrina,<br/>
-Faculty Applied Computer Sciences & Biosciences,<br/>
+Stýblová, Sabrina<br/>
+Faculty Applied Computer Sciences & Biosciences<br/>
 Hochschule Mittweida
 
 
