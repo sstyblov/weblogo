@@ -14,7 +14,7 @@ and conservation of each element of the MSA.
 To plot the graph, a package `dmslogo` must be installed. 
 `dmslogo` is a Python package written by the Bloom lab
 The easiest way to install it is with `pip install dmslogo`.
-This package can be then installed in the current Project Interpreter (_File/Setting/Project Interpreter_**).
+This package can be then installed in the current Project Interpreter (_File/Settings/Project Interpreter_).
 
 For more information visit [Bloom Laboratory](https://jbloomlab.github.io/dmslogo/index.html).
 
